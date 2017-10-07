@@ -1,0 +1,8 @@
+.background {
+
+	background-image: url('https://s3.us-east-2.amazonaws.com/karenericwedding/photo/cover.jpg');
+	background-size:     cover;                     
+    background-repeat:   repeat-y;
+    background-position: center center;
+	height: 3000px;
+}
